@@ -1,4 +1,4 @@
-// issue: rust-lang/rust#11508
+// issue: <https://github.com/rust-lang/rust/issues/11508>
 // Test pattern matching on a tuple struct defined in an external crate.
 //@ run-pass
 //@ aux-build:tuple-struct-cross-crate-aux.rs

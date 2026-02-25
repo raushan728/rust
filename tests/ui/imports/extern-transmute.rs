@@ -1,4 +1,4 @@
-// issue: rust-lang/rust#15562
+// issue: <https://github.com/rust-lang/rust/issues/15562>
 // Test resolution of `transmute` in an extern block to rust intrinsics.
 //@ run-pass
 //@ aux-build:extern-transmute-aux.rs

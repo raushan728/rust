@@ -1,4 +1,4 @@
-// issue: rust-lang/rust#11552
+// issue: <https://github.com/rust-lang/rust/issues/11552>
 // Test nested box pattern matching inside a larger `match` statement.
 //@ run-pass
 #![feature(box_patterns)]

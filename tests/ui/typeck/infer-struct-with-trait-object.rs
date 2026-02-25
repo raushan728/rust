@@ -1,4 +1,4 @@
-// issue: rust-lang/rust#11677
+// issue: <https://github.com/rust-lang/rust/issues/11677>
 // Test that type inference works correctly for struct fields containing trait objects.
 //@ run-pass
 #![allow(unused_imports)]

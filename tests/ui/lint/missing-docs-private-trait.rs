@@ -1,4 +1,4 @@
-// issue: rust-lang/rust#11592
+// issue: <https://github.com/rust-lang/rust/issues/11592>
 // Test that the `missing_docs` lint does not trigger for a private trait.
 //@ check-pass
 //! Ensure the private trait Bar isn't complained about.

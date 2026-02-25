@@ -1,4 +1,4 @@
-// issue: rust-lang/rust#13620
+// issue: <https://github.com/rust-lang/rust/issues/13620>
 // Test cross crate resolution of an indirect function pointer
 //@ run-pass
 //@ aux-build:extern-crate-indirect-fn-ptr-aux-1.rs

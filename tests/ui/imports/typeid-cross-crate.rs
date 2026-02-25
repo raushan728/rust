@@ -1,4 +1,4 @@
-// issue: rust-lang/rust#13507
+// issue: <https://github.com/rust-lang/rust/issues/13507>
 // Test cross-crate TypeId stability
 //@ run-pass
 #![allow(unused_imports)]

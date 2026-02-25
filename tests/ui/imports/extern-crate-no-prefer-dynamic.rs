@@ -1,4 +1,4 @@
-// issue: rust-lang/rust#14344
+// issue: <https://github.com/rust-lang/rust/issues/14344>
 // Test that we can depend on an `no-prefer-dynamic` crate.
 //@ run-pass
 //@ aux-build:extern-crate-no-prefer-dynamic-aux-1.rs

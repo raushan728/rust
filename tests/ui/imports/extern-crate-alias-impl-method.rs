@@ -1,4 +1,4 @@
-// issue: rust-lang/rust#14422
+// issue: <https://github.com/rust-lang/rust/issues/14422>
 // Test that we can call an inherently implemented method via aliasing from an extern crate.
 //@ run-pass
 #![allow(non_snake_case)]

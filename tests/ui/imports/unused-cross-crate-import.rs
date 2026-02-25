@@ -1,4 +1,4 @@
-// issue: rust-lang/rust#12612
+// issue: <https://github.com/rust-lang/rust/issues/12612>
 // Test that unused `use` declarations involving multiple external crates are handled properly.
 //@ run-pass
 #![allow(unused_imports)]
